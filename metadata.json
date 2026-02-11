@@ -1,0 +1,9 @@
+{
+  "name": "IDEN & MindShift Portal",
+  "description": "A high-end, futuristic corporate platform featuring the IDEN Engine and MindShift Programs, inspired by top 2025 design trends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
